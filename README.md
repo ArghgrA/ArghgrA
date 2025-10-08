@@ -1,16 +1,17 @@
-## Hi there 👋
+<!--Banner-->
+<!--![Vincenzo Banner Image](./banner.png)-->
 
-<!--
-**ArghgrA/ArghgrA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴠɪɴᴄᴇɴᴢᴏ! 
+*CTF Player (Web Exploitation)*
+<br /> 
 
-Here are some ideas to get you started:
+<!--Start Intro-->               
+<p align="left">I'm a CTF player focused on Web challenges, with a strong interest in vulnerability research, bug bounty hunting, and web application exploitation. I dig into HTTP, break logic, and script custom payloads to uncover hidden flaws. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Computer Science Student :) 
+- 🌱 Always learning — testing, breaking, repeating  
+- ✍ I write Poc [Medium](https://medium.com/@ArghgrA)  
+- ❤ Passionate about open source and infosec tools  
+- 💻 Visit my [Portfolio](https://arghgra.github.io/) for more details about me  
+<!--End Intro-->

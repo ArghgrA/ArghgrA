@@ -11,7 +11,7 @@
 
 - ✨ Computer Science Student :) 
 - 🌱 Always learning — testing, breaking, repeating  
-- ✍ I write Poc [Medium](https://medium.com/@ArghgrA)  
+- ✍ I write Poc [My Blog]([https://medium.com/@ArghgrA](https://arghgra.github.io/arghblog/))  
 - ❤ Passionate about open source and infosec tools  
 - 💻 Visit my [Portfolio](https://arghgra.github.io/) for more details about me  
 <!--End Intro-->
